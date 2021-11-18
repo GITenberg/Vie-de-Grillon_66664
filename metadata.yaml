@@ -1,0 +1,24 @@
+_repo: Vie-de-Grillon_66664
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Derennes, Charles
+    birthdate: 1882
+    deathdate: 1930
+    gutenberg_agent_id: '53060'
+    url: http://www.gutenberg.org/2009/agents/53060
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Charles_Derennes
+    - https://fr.wikipedia.org/wiki/Charles_Derennes
+description: ''
+gutenberg_issued: '2021-11-04'
+identifiers:
+  gutenberg: '66664'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Vie de Grillon
+url: http://www.gutenberg.org/ebooks/66664
