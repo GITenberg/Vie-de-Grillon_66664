@@ -1,5 +1,8 @@
 _repo: Vie-de-Grillon_66664
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 66664-h/images/cover.jpg
 creator:
   author:
     agent_name: Derennes, Charles
@@ -11,6 +14,8 @@ creator:
     - https://en.wikipedia.org/wiki/Charles_Derennes
     - https://fr.wikipedia.org/wiki/Charles_Derennes
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66664#Vie-de-Grillon
 gutenberg_issued: '2021-11-04'
 identifiers:
   gutenberg: '66664'
